@@ -1,10 +1,8 @@
 {
 	"name": "pay-to-contract-signaling-protocol",
-	"private": false,
 	"version": "0.0.1",
-	"main": "dist/index.js",
 	"author": "starcharles <stardustforever012@gmail.com>",
-	"license": "UNLICENSED",
+	"license": "MIT",
 	"devDependencies": {
 		"@types/bitcoinjs-lib": "^3.4.0",
 		"@types/jest": "^22.1.3",

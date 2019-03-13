@@ -1,4 +1,7 @@
+Original Paper: [Homomorphic Payment Addresses and the Pay-to-Contract Protocol](https://arxiv.org/pdf/1212.3257.pdf
+)
 # Pay-to-Contract transaction with signaling output tx.
+
 
 ## Client
 

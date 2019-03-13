@@ -26,4 +26,4 @@ Original Paper: [Homomorphic Payment Addresses and the Pay-to-Contract Protocol]
 - [ ] make as a library
 - [ ] publish as npm package
 - [ ] option to use blockCypher API/ bitcore light client
-- [ ] remove OP_RETURN
+- [ ] remove OP_RETURN with IPFS tag
